@@ -19,11 +19,13 @@ The original class use Java as primary language, but I will try to do it in Pyth
 
 ## Schedule
 
-| Week                | Lecture                  | Assignments |
-| ------------------- | ------------------------ | ----------- |
-| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1 |             |
+| Week                | Lecture                                        | Assignments |
+| ------------------- | ---------------------------------------------- | ----------- |
+| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 2 |             |
 
 ### Coursera Recommender System Specializations
+
+> Include some reference of the Main Course
 
 #### 1. Introduction to Recommender Systems: Non-Personalized and Content-Based
 
@@ -53,14 +55,25 @@ The original class use Java as primary language, but I will try to do it in Pyth
     * [**Local notebook**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/HonersTrack/Week%201/Getting_Started_with_LensKit_for_Python.ipynb)
 * Week 2
   * Non-Personalized and Stereotype-Based Recommenders
-    * [ ] **Non-Personalized and Stereotype-Based Recommenders**
-    * [ ] **Summary Statistics I**
+    * [X] [**Non-Personalized and Stereotype-Based Recommenders (1)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/1.%20Non-Personalized%20and%20Stereotype-Based%20Recommenders.md)
+    * [ ] [**Summary Statistics I**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/../../../Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/2%20&%203.%20Summary%20Statistics.md)
     * [ ] **Summary Statistics II**
     * [ ] **Demographics and Related Approaches**
     * [ ] **Product Association Recommenders**
     * [ ] Assignment #1 Intro Video
     * [ ] Assignment Intro: Programming Non-Personalized Recommenders
-  
+  * Additional Reading of the Course Preparation
+    * [ ] [UX Research: 5 Requirements for the ‘Ratings Distribution Summary’ on the Product Page (65% Get it Wrong) – Articles – Baymard Institute](https://baymard.com/blog/user-ratings-distribution-summary)
+    * [ ] [How Not To Sort By Average Rating – Evan Miller](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+    * [ ] [How Hacker News ranking algorithm works | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d)
+    * [ ] [How Reddit ranking algorithms work | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
+
+## Assignments
+
+### [Homework #1](MainCourse/Assignments/Homework1)
+
+> * [Homework #1 -- Non-Personalized and Content-Based Recommenders](https://canvas.umn.edu/courses/135116/assignments/775226)
+
 ## Resources
 
 ### Code
