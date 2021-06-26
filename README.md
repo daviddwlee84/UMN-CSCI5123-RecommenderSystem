@@ -12,10 +12,10 @@
 
 The original class use Java as primary language, but I will try to do it in Python.
 
-* [lenskit/lenskit-hello: Hello World for LensKit.](https://github.com/lenskit/lenskit-hello)
+* [lenskit/lenskit-hello: Hello World for LensKit.](https://github.com/lenskit/lenskit-hello) (deprecated)
 * [lenskit/lkpy: Python recommendation toolkit](https://github.com/lenskit/lkpy)
   * [LensKit — LensKit 0.13.1 documentation](https://lkpy.readthedocs.io/en/stable/)
-  * [LensKit for Python](https://arxiv.org/pdf/1809.03125.pdf)
+  * [Paper: LensKit for Python](https://arxiv.org/pdf/1809.03125.pdf)
 
 ## Schedule
 
@@ -44,6 +44,10 @@ The original class use Java as primary language, but I will try to do it in Pyth
     * [Honors: Setting up the development environment (11)](Coursera/HonersTrack/Week%201/11.%20Setting%20up%20the%20development%20environment.md)
     * About the Honors Track
     * Downloads and Resources
+  * My Alternative
+    * [Getting Started — LensKit 0.13.1 documentation](https://lkpy.readthedocs.io/en/stable/GettingStarted.html)
+    * [Getting Started with LensKit for Python - Colaboratory](https://colab.research.google.com/drive/1ym040cKkQf85epu80VtIkMXy3LpfYQky?usp=sharing)
+    * [**Local notebook**](Coursera/HonersTrack/Week%201/Getting_Started_with_LensKit_for_Python.ipynb)
 * Week 2
   * ...
 
