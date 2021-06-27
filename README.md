@@ -21,7 +21,7 @@ The original class use Java as primary language, but I will try to do it in Pyth
 
 | Week                | Lecture                                        | Assignments |
 | ------------------- | ---------------------------------------------- | ----------- |
-| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 2 |             |
+| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3 |             |
 
 ### Coursera Recommender System Specializations
 
@@ -35,7 +35,7 @@ The original class use Java as primary language, but I will try to do it in Pyth
 * Week 1
   * Preface
     * [X] [**Intro to Recommender Systems (1)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%201/1.%20Intro%20to%20Recommender%20Systems.md)
-    * [X] Intro to Course and Specialization (2)](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%201/2.%20Intro%20to%20Course%20and%20Specialization.md)
+    * [X] [Intro to Course and Specialization (2)](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%201/2.%20Intro%20to%20Course%20and%20Specialization.md)
     * [X] Notes on Course Design and Relationship to Prior Courses
   * Introducing Recommender Systems
     * [X] [**Movielens Tour (3)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%201/3.%20Movielens%20Tour.md)
@@ -56,10 +56,10 @@ The original class use Java as primary language, but I will try to do it in Pyth
 * Week 2
   * Non-Personalized and Stereotype-Based Recommenders
     * [X] [**Non-Personalized and Stereotype-Based Recommenders (1)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/1.%20Non-Personalized%20and%20Stereotype-Based%20Recommenders.md)
-    * [ ] [**Summary Statistics I**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/../../../Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/2%20&%203.%20Summary%20Statistics.md)
-    * [ ] **Summary Statistics II**
-    * [ ] **Demographics and Related Approaches**
-    * [ ] **Product Association Recommenders**
+    * [X] [**Summary Statistics I (2)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/../../../Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/2%20&%203.%20Summary%20Statistics.md)
+    * [X] **Summary Statistics II (3)**
+    * [ ] **Demographics and Related Approaches (4)**
+    * [ ] **Product Association Recommenders (5)**
     * [ ] Assignment #1 Intro Video
     * [ ] Assignment Intro: Programming Non-Personalized Recommenders
   * Additional Reading of the Course Preparation
