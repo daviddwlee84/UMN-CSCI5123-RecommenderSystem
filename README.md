@@ -22,6 +22,7 @@ The original class use Java as primary language, but I will try to do it in Pyth
 | Week                | Lecture                                        | Assignments |
 | ------------------- | ---------------------------------------------- | ----------- |
 | 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3 |             |
+| 2021/6/28~2021/7/4  | Coursera Course 1 Week 2 Lecture 4, 5          |             |
 
 ### Coursera Recommender System Specializations
 
@@ -57,9 +58,9 @@ The original class use Java as primary language, but I will try to do it in Pyth
   * Non-Personalized and Stereotype-Based Recommenders
     * [X] [**Non-Personalized and Stereotype-Based Recommenders (1)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/1.%20Non-Personalized%20and%20Stereotype-Based%20Recommenders.md)
     * [X] [**Summary Statistics I (2)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/../../../Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/2%20&%203.%20Summary%20Statistics.md)
-    * [X] **Summary Statistics II (3)**
-    * [ ] **Demographics and Related Approaches (4)**
-    * [ ] **Product Association Recommenders (5)**
+    * [X] [**Summary Statistics II (3)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/../../../Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/2%20&%203.%20Summary%20Statistics.md)
+    * [X] [**Demographics and Related Approaches (4)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/4.%20Demographics%20and%20Related%20Approaches.md)
+    * [X] [**Product Association Recommenders (5)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/5.%20Product%20Association%20Recommenders.md)
     * [ ] Assignment #1 Intro Video
     * [ ] Assignment Intro: Programming Non-Personalized Recommenders
   * Additional Reading of the Course Preparation
@@ -75,6 +76,8 @@ The original class use Java as primary language, but I will try to do it in Pyth
 > * [Homework #1 -- Non-Personalized and Content-Based Recommenders](https://canvas.umn.edu/courses/135116/assignments/775226)
 
 ## Resources
+
+> * [LaTeX Math Symbols](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf)
 
 ### Code
 
