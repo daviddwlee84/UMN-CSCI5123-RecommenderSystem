@@ -19,10 +19,10 @@ The original class use Java as primary language, but I will try to do it in Pyth
 
 ## Schedule
 
-| Week                | Lecture                                                     | Assignments |
-| ------------------- | ----------------------------------------------------------- | ----------- |
-| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3              |             |
-| 2021/6/28~2021/7/4  | Coursera Course 1 Week 2 Lecture 4, 5 & Additional readings |             |
+| Week                | Lecture                                                                      | Assignments |
+| ------------------- | ---------------------------------------------------------------------------- | ----------- |
+| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3                               |             |
+| 2021/6/28~2021/7/4  | Coursera Course 1 Week 2 Lecture 4, 5 Week 3 Lecture 1 & Additional readings |             |
 
 ### Coursera Recommender System Specializations
 
@@ -68,6 +68,19 @@ The original class use Java as primary language, but I will try to do it in Pyth
     * [X] [How Not To Sort By Average Rating – Evan Miller](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Not%20To%20Sort%20By%20Average%20Rating%20–%20Evan%20Miller.mhtml))
     * [X] [How Hacker News ranking algorithm works | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Reddit%20ranking%20algorithms%20work%20_%20by%20Amir%20Salihefendic%20_%20Hacking%20and%20Gonzo%20_%20Medium.html))
     * [X] [How Reddit ranking algorithms work | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Reddit%20ranking%20algorithms%20work%20_%20by%20Amir%20Salihefendic%20_%20Hacking%20and%20Gonzo%20_%20Medium.html))
+  * Honors Programming Assignment: Programming Non-Personalized Recommenders
+    * [ ] [Non-Personalized Recommender Assignment](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/HonersTrack/Week%202/Non-Personalized%20Recommender%20Assignment.pdf)
+* Week 3
+  * Content-Based Filtering Using TFIDF
+    * [X] [**Introduction to Content-Based Recommenders (1)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%203/1.%20Introduction%20to%20Content-Based%20Recommenders.md)
+    * [ ] **TFIDF and Content Filtering**
+    * [ ] **Content-Based Filtering: Deeper Dive**
+  * Advanced Content-Based Techniques and Interfaces
+    * [ ] **Entree Style Recommenders -- Robin Burke Interview**
+    * [ ] **Case-Based Reasoning -- Interview with Barry Smyth**
+    * [ ] **Dialog-Based Recommenders -- Interview with Pearl Pu**
+    * [ ] **Search, Recommendation, and Target Audiences -- Interview with Sole Pera**
+    * [ ] **Beyond TFIDF -- Interview with Pasquale Lops**
 
 ## Assignments
 
