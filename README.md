@@ -19,10 +19,10 @@ The original class use Java as primary language, but I will try to do it in Pyth
 
 ## Schedule
 
-| Week                | Lecture                                        | Assignments |
-| ------------------- | ---------------------------------------------- | ----------- |
-| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3 |             |
-| 2021/6/28~2021/7/4  | Coursera Course 1 Week 2 Lecture 4, 5          |             |
+| Week                | Lecture                                                     | Assignments |
+| ------------------- | ----------------------------------------------------------- | ----------- |
+| 2021/6/21~2021/6/27 | Coursera Course 1 Week 1, Week 2 Lecture 1 ~ 3              |             |
+| 2021/6/28~2021/7/4  | Coursera Course 1 Week 2 Lecture 4, 5 & Additional readings |             |
 
 ### Coursera Recommender System Specializations
 
@@ -63,11 +63,11 @@ The original class use Java as primary language, but I will try to do it in Pyth
     * [X] [**Product Association Recommenders (5)**](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/5.%20Product%20Association%20Recommenders.md)
     * [ ] Assignment #1 Intro Video
     * [ ] Assignment Intro: Programming Non-Personalized Recommenders
-  * Additional Reading of the Course Preparation
-    * [ ] [UX Research: 5 Requirements for the ‘Ratings Distribution Summary’ on the Product Page (65% Get it Wrong) – Articles – Baymard Institute](https://baymard.com/blog/user-ratings-distribution-summary)
-    * [ ] [How Not To Sort By Average Rating – Evan Miller](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
-    * [ ] [How Hacker News ranking algorithm works | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d)
-    * [ ] [How Reddit ranking algorithms work | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9)
+  * [X] Additional Reading of the Course Preparation ([Notes](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/NotesOfAdditionalReading.md))
+    * [X] [UX Research: 5 Requirements for the ‘Ratings Distribution Summary’ on the Product Page (65% Get it Wrong) – Articles – Baymard Institute](https://baymard.com/blog/user-ratings-distribution-summary) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Hacker%20News%20ranking%20algorithm%20works%20_%20by%20Amir%20Salihefendic%20_%20Hacking%20and%20Gonzo%20_%20Medium.html))
+    * [X] [How Not To Sort By Average Rating – Evan Miller](https://www.evanmiller.org/how-not-to-sort-by-average-rating.html) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Not%20To%20Sort%20By%20Average%20Rating%20–%20Evan%20Miller.mhtml))
+    * [X] [How Hacker News ranking algorithm works | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-hacker-news-ranking-algorithm-works-1d9b0cf2c08d) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Reddit%20ranking%20algorithms%20work%20_%20by%20Amir%20Salihefendic%20_%20Hacking%20and%20Gonzo%20_%20Medium.html))
+    * [X] [How Reddit ranking algorithms work | by Amir Salihefendic | Hacking and Gonzo | Medium](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9) ([backup](Coursera/Introduction%20to%20Recommender%20Systems:%20Non-Personalized%20and%20Content-Based/LectureNotes/Week%202/How%20Reddit%20ranking%20algorithms%20work%20_%20by%20Amir%20Salihefendic%20_%20Hacking%20and%20Gonzo%20_%20Medium.html))
 
 ## Assignments
 
