@@ -104,6 +104,28 @@ The original class use Java as primary language, but I will try to do it in Pyth
 * [ZiyaoGeng/Recommender-System-with-TF2.0: Recurrence the recommender paper with Tensorflow2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)
 * [google-research/recsim: A Configurable Recommender Systems Simulation Platform](https://github.com/google-research/recsim)
 
+### Blog
+
+* Twitter Recommendation Algorithm
+  * [A new era of transparency for Twitter](https://blog.twitter.com/en_us/topics/company/2023/a-new-era-of-transparency-for-twitter)
+  * [Twitter's Recommendation Algorithm](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+  * [twitter/the-algorithm: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm)
+  * [twitter/the-algorithm-ml: Source code for Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm-ml)
+  * [Twitter GitHub](https://github.com/twitter)
+
+### Notes
+
+* [ShaoQiBNU/videoRecTips: 短视频推荐优化经验总结](https://github.com/ShaoQiBNU/videoRecTips)
+
 ### Book
 
 * 深度學習推薦系統 - 王喆
+
+---
+
+## Trouble Shooting
+
+Windows filename too long
+
+1. `regedit` > `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem` > `LongPathsEnabled` (set to `1`)
+2. `gpedit.msc` (require Windows Pro) > `Computer Configuration > Administrative Templates > System > Filesystem` > `Enable Win32 long paths` (set to `enabled`)
